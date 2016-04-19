@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             "七大碗",
             "火红年代",
             "负一楼",
-            "如意馄饨"};
+            "如意馄饨aaa"};
     private TextView textView;
     private Button rand;
     @Override
